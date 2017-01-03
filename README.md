@@ -13,3 +13,7 @@ https://www.sitepoint.com/backbone-basics-models-views-collections-templates/
 
 https://spring.io/guides/gs/consuming-rest-backbone/
 
+#jr
+javscript resource
+http://stackoverflow.com/questions/7201400/regex-to-grab-strings-between-square-brackets
+
