@@ -15,5 +15,7 @@ https://spring.io/guides/gs/consuming-rest-backbone/
 
 #jr
 javscript resource
+
 http://stackoverflow.com/questions/7201400/regex-to-grab-strings-between-square-brackets
 
+http://stackoverflow.com/questions/24040165/jquery-datepicker-close-datepicker-after-selected-date
