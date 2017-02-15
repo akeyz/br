@@ -25,3 +25,5 @@ http://stackoverflow.com/questions/9396411/ie-javascript-form-submit-with-file-i
 https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
 
 https://github.com/blueimp/jQuery-File-Upload
+
+http://igstan.ro/posts/2009-01-11-ajax-file-upload-with-pure-javascript.html
