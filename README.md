@@ -27,3 +27,5 @@ https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
 https://github.com/blueimp/jQuery-File-Upload
 
 http://igstan.ro/posts/2009-01-11-ajax-file-upload-with-pure-javascript.html
+
+http://www.smartjava.org/content/face-detection-using-html5-javascript-webrtc-websockets-jetty-and-javacvopencv
