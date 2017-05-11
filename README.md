@@ -13,6 +13,8 @@ https://www.sitepoint.com/backbone-basics-models-views-collections-templates/
 
 https://spring.io/guides/gs/consuming-rest-backbone/
 
+route query params: http://stackoverflow.com/questions/11671400/navigate-route-with-querystring
+
 # jr
 javscript resource
 
