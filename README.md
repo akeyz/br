@@ -37,3 +37,8 @@ http://techslides.com/over-2000-d3-js-examples-and-demos
 # reactjs
 
 http://www.sorysory.com/2016/10/12/reactjs-webpack/
+
+
+# threejs
+
+http://blog.sandromartis.com/2016/11/16/merging-geometries/
