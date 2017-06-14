@@ -42,3 +42,7 @@ http://www.sorysory.com/2016/10/12/reactjs-webpack/
 # threejs
 
 http://blog.sandromartis.com/2016/11/16/merging-geometries/
+
+# sublimetext
+
+https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
