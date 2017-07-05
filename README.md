@@ -45,6 +45,8 @@ http://blog.csdn.net/awaw00/article/details/59145186
 
 http://blog.sandromartis.com/2016/11/16/merging-geometries/
 
+http://charliehoey.com/#threejs
+
 # sublimetext
 
 https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
