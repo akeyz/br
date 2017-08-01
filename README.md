@@ -50,3 +50,7 @@ http://charliehoey.com/#threejs
 # sublimetext
 
 https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016
+
+# angular4
+
+https://stackoverflow.com/questions/40214772/file-upload-in-angular-2
