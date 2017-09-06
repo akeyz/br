@@ -144,3 +144,6 @@ https://www.reddit.com/r/Angular2/comments/69gskn/how_to_upload_files_in_angular
 # performance
 
 http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html
+
+# d3.js
+http://jsfiddle.net/doraeimo/JEcdS/
