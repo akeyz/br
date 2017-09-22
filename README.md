@@ -146,8 +146,23 @@ https://www.reddit.com/r/Angular2/comments/69gskn/how_to_upload_files_in_angular
 http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html
 
 # d3.js
+
 http://jsfiddle.net/doraeimo/JEcdS/
 
 http://blog.csdn.net/k21325/article/details/68925611
 
 http://www.tnoda.com/blog/2014-04-02
+
+http://bl.ocks.org/duopixel/4063326
+
+https://www.visualcinnamon.com/2016/01/animating-dashed-line-d3.html
+
+http://bl.ocks.org/emeeks/068ef3e4106e155467a3
+
+https://stackoverflow.com/questions/18165533/how-to-draw-a-line-link-between-two-points-on-a-d3-map-based-on-latitude-lon
+
+https://www.sitepoint.com/d3-js-data-visualizations/
+
+# leaflet
+
+https://leanpub.com/leaflet-tips-and-tricks/read
