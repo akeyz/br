@@ -1,5 +1,0 @@
-# npm tips
-安装node-sass失败
-npm install -g node-sass --sass-binary-site=https://npm.taobao.org/mirrors/node-sass/
-或者将该文件下载下来，使用下面的命令进行安装，换成你下载的路径~
-npm i -g node-sass --sass_binary_path=C:\Users\username\Downloads\win32-x64-48_binding.node
