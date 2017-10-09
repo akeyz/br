@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/40214772/file-upload-in-angular-2
+
+https://www.reddit.com/r/Angular2/comments/69gskn/how_to_upload_files_in_angular_2/
