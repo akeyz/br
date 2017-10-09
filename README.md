@@ -1,1 +1,1 @@
-# some tips or instruction(include sth. here.)
+# some tips or instruction(sth. included)
