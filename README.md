@@ -163,6 +163,8 @@ https://stackoverflow.com/questions/18165533/how-to-draw-a-line-link-between-two
 
 https://www.sitepoint.com/d3-js-data-visualizations/
 
+https://bost.ocks.org/mike/path/
+
 # leaflet
 
 https://leanpub.com/leaflet-tips-and-tricks/read
