@@ -67,3 +67,19 @@ http://jsperf.com/jquery-css-vs-style-webkittransform-translate3d
 http://www.petegoodman.com/labs/js-tweening-boxes/
 
 http://code.google.com/p/mea3d/
+
+http://www.codeproject.com/Articles/188499/Web-goes-3D-does-advertising-too-The-WebGL-Silverl
+
+http://www.the-art-of-web.com/css/css-animation/
+
+http://css3.bradshawenterprises.com/transforms/
+
+http://css3animator.com/2010/12/how-to-control-your-css3-animations/
+
+http://www.w3cplus.com/content/css3-animation
+
+http://html5demos.com/
+
+http://css-tricks.com/examples/OrganicTabs/
+
+https://developer.mozilla.org/en/Drawing_text_using_a_canvas
