@@ -86,3 +86,4 @@ https://developer.mozilla.org/en/Drawing_text_using_a_canvas
 
 COOL EXAMPLE.
 http://alteredqualia.com/
+http://blog.jobbole.com/95475/
